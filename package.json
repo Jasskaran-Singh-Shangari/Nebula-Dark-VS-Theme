@@ -1,0 +1,21 @@
+{
+  "name": "nebula-night",
+  "displayName": "Nebula Night",
+  "description": "A dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula Night-color-theme.json"
+      }
+    ]
+  }
+}
