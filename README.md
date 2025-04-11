@@ -17,7 +17,7 @@ yo code
   
 ### 2. Choose "New Color Theme" from the generator options
 
-![Theme Preview](https://raw.githubusercontent.com/Jasskaran-Singh-Shangari/Nebula-Dark-VS-Theme/main/assets/ThemeExplorer.png)
+![Theme Preview](https://raw.githubusercontent.com/Jasskaran-Singh-Shangari/Nebula-Dark-VS-Theme/main/assets/FileExplorer.png)
 
 
 ### 3. Customize your theme colors and metadata
