@@ -1,11 +1,18 @@
 {
   "name": "nebula-night",
   "displayName": "Nebula Night",
-  "description": "A dark theme",
+  "description": "A dark theme perfect for late night coders.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
   },
+  "galleryBanner.color":{
+    "theme": "Dark",
+    "color": "#12093F"
+  },
+  "publisher": "REBEL-Osuda",
+  "preview":true,
+  "icon":"./assets/Theme-icon.png",
   "categories": [
     "Themes"
   ],
