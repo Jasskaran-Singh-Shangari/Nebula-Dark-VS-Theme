@@ -10,6 +10,10 @@
     "theme": "Dark",
     "color": "#12093F"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jasskaran-Singh-Shangari/Nebula-Night-VS-Theme"
+  },
   "license": "GPL-3.0",
   "publisher": "REBEL-Osuda",
   "preview":true,
