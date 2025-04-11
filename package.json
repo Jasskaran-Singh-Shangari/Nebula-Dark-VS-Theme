@@ -10,6 +10,7 @@
     "theme": "Dark",
     "color": "#12093F"
   },
+  "license": "GPL-3.0",
   "publisher": "REBEL-Osuda",
   "preview":true,
   "icon":"./assets/Theme-icon.png",
