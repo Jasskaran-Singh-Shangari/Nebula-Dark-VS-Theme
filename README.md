@@ -1,4 +1,4 @@
-# Nebula-Night VS Theme
+# Nebula-Night VS Theme 🌙
 
 A great guy once said *"A worthy theme is not but a preference — nay, ’tis essential. For without it, the art of coding becometh drudgery, lacking all mirth and flair.*
 
