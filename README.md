@@ -6,7 +6,8 @@ A great guy once said *"A worthy theme is not but a preference — nay, ’tis e
 
 To create a personalized theme like this one, follow the steps below:
 
-![Alt Text](https://github.com/Jasskaran-Singh-Shangari/Nebula-Night-VS-Theme/blob/main/assets/image.png)
+![Theme Preview](https://raw.githubusercontent.com/Jasskaran-Singh-Shangari/Nebula-Dark-VS-Theme/main/assets/image.png)
+
 
 ### 1. Install Yeoman and the VS Code Extension Generator
 <pre>
@@ -16,7 +17,8 @@ yo code
   
 ### 2. Choose "New Color Theme" from the generator options
 
-![Alt Text](https://github.com/Jasskaran-Singh-Shangari/Nebula-Night-VS-Theme/blob/main/assets/FileExplorer.png)
+![Theme Preview](https://raw.githubusercontent.com/Jasskaran-Singh-Shangari/Nebula-Dark-VS-Theme/main/assets/ThemeExplorer.png)
+
 
 ### 3. Customize your theme colors and metadata
 The theme in VS Code can be easily summarized as a long JSON file, filled with various variables and color tokens that might not make much sense at first glance. 🎨
