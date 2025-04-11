@@ -16,7 +16,7 @@ yo code
   
 ### 2. Choose "New Color Theme" from the generator options
 
-![Alt Text](https://github.com/Jasskaran-Singh-Shangari/Nebula-Night-VS-Theme/blob/main/assets/Theme-Explored%20page.png)
+![Alt Text](https://github.com/Jasskaran-Singh-Shangari/Nebula-Night-VS-Theme/blob/main/assets/FileExplorer.png)
 
 ### 3. Customize your theme colors and metadata
 The theme in VS Code can be easily summarized as a long JSON file, filled with various variables and color tokens that might not make much sense at first glance. 🎨
