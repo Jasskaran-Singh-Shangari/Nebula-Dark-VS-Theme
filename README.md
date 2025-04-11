@@ -32,12 +32,11 @@ To preview and test your theme live:
 3. A new VS Code window will open with your theme applied for testing
 
 ### 5. Publish it on the Marketplace!
-There are a number of steps involved before you publish it
+There are a number of steps involved before you publish it, but to summarize them
 1. Sign Up with Microsift Azure DevOps
 2. Create an Organization
-3. Register your theme
-4. Publish it
-
-### 6. 
+3. Create a publisher
+4. Register your theme
+5. Publish it
 
 **Voila!! You have successfully made a theme for yourself and others to use**
