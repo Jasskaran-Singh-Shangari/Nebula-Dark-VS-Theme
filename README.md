@@ -6,7 +6,7 @@ A great guy once said *"A worthy theme is not but a preference — nay, ’tis e
 
 To create a personalized theme like this one, follow the steps below:
 
-![Alt Text]()
+![Alt Text](assets\image.png)
 
 ### 1. Install Yeoman and the VS Code Extension Generator
 <pre>
@@ -37,5 +37,7 @@ There are a number of steps involved before you publish it
 2. Create an Organization
 3. Register your theme
 4. Publish it
+
+### 6. 
 
 **Voila!! You have successfully made a theme for yourself and others to use**
